@@ -1,0 +1,14 @@
+ID,expectation,isSuccess,code,message,name,description,tps
+1,True,True,200,Backend response:Resource Created,,,
+2,True,False,422,Required field- tps is missing,sUogyRqzwv,FtBlTrhJYc,
+3,True,True,200,Backend response:Resource Created,,,
+4,True,False,422,Required field- tps is missing,KbyEplILEU,,
+5,True,False,422,Required field- name is missing,,twaieAIhzh,295
+6,True,False,422,Required field- name and tps is missing,,iNNAUrtMPU,
+7,True,False,422,Required field- name is missing,,,323
+8,True,False,422,Required field- name and tps is missing,,,
+9,False,True,200,Duplicate field values,,,
+10,False,True,200,Duplicate field values,,,
+11,True,True,200,Backend response:Resource Created,,,
+12,True,False,422,Max length is exceeded,rPJIopYUIuIuanvLFwYasaQAHcEPmMssDXwFpjfTQahFhiecSNt,PkxWBUOBfxgNIBShWdZkmimtFDuptHMIdzXvxhjEGSaMUARgejiKnoOKHSMRiUoDzdJObNcJBwRyUvrPxjFjWzpddOZzfmvgLiFXP,7385
+13,True,False,422,TPS value is not an integer,NersvEOkRh,vPreisVKtO,SiDgpPtDcb

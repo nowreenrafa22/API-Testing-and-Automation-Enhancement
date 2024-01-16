@@ -1,0 +1,7 @@
+ID,delete_id,c_response,Error message
+1,678,True,Successful
+2,-914,False,Error: Invalid Delete ID
+3,0,False,Error: Delete ID is zero
+4,692,False,Error: Invalid Delete ID
+5,963122140,False,Error: Invalid Delete ID
+6,678,True,Unsuccessful

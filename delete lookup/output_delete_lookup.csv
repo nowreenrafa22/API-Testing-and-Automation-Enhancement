@@ -1,0 +1,7 @@
+ID,delete_id,expectation,isSuccess,code,message
+1,678,True,True,200,Backend response:Information Not Found
+2,-914,True,False,422,Backend response:Invalid Request
+3,0,True,False,422,Backend response:Invalid Request
+4,692,False,True,200,Unknown Error
+5,963122140,False,True,200,Unknown Error
+6,678,False,True,200,Unknown Error

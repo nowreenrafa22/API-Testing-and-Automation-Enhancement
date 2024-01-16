@@ -1,0 +1,6 @@
+ID,delete_id,expectation,isSuccess,code,message
+1,100,True,True,200,Backend response:Resource Deleted
+2,-240,True,False,422,Backend response:Invalid Request
+3,0,True,False,422,Backend response:Invalid Request
+4,109,False,True,200,Unknown Error
+5,839324499,False,True,200,Unknown Error

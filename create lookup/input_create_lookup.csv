@@ -1,0 +1,70 @@
+ID,c_response,type,code,value,value_unicode,description,data_type,Error Message
+1,True,Y,IWsBqvms,Xid,QBPSvYN,IIuBCkAgs,z,
+2,True,ivnLJbbg,unJHW,lOP,RjK,Z,,
+3,True,pvrCX,tU,dYvglglDlr,EUmhVVBIqL,,sy,
+4,True,MNHqbVzi,jkY,uG,lYtNDjjxF,,,
+5,True,FYkYicZUo,QTOffBefW,TV,,MnKvJsjp,U,
+6,True,tBkuzxI,YNUF,Dy,,fcGEx,,
+7,True,j,EsKo,zDMUODBaeY,,,Yi,
+8,True,oUg,CHWpbtrGr,o,,,,
+9,False,j,kYYn,,FYDXDlLPt,w,rTlbz,Required field- value is missing
+10,False,rMEc,iIGzeuicN,,TvgwFCECq,QZQHeiQl,,Required field- value is missing
+11,False,OOKQxex,qvrapMvrq,,S,,RiOjZi,Required field- value is missing
+12,False,aSuCAgVB,s,,OKgRn,,,Required field- value is missing
+13,False,KKHgyfvvk,LSt,,,xCLwcU,WvMNLzFCFQ,Required field- value is missing
+14,False,KpFPF,rFfw,,,qpmxjY,,Required field- value is missing
+15,False,Hyp,J,,,,aC,Required field- value is missing
+16,False,dayKPnlNY,dVeBGGv,,,,,Required field- value is missing
+17,False,MjTQIc,,M,uSH,EP,DWOWEWcNsv,Required field- code is missing
+18,False,DPg,,Jaky,ITGNH,SBN,,Required field- code is missing
+19,False,AuvObSKhA,,eaDyojD,bDx,,tZaIJ,Required field- code is missing
+20,False,OUySZJqVN,,tiRrL,ZFADBY,,,Required field- code is missing
+21,False,svuhFOCMR,,tkdVXn,,Iy,gLwlmll,Required field- code is missing
+22,False,EkFH,,iGixZjA,,LpcaiBgGl,,Required field- code is missing
+23,False,T,,GwN,,,EPE,Required field- code is missing
+24,False,snNqwNJ,,XjIAJsbhd,,,,Required field- code is missing
+25,False,gsS,,,LekCmF,xWJ,ZP,Required field- code and value is missing
+26,False,HZ,,,xCbH,oriQGxsPMz,,Required field- code and value is missing
+27,False,sDSl,,,r,,bnTthFfmd,Required field- code and value is missing
+28,False,krfSHsF,,,UFdm,,,Required field- code and value is missing
+29,False,JR,,,,hOtprf,WbOCGEVBb,Required field- code and value is missing
+30,False,AnfwRk,,,,Bmi,,Required field- code and value is missing
+31,False,a,,,,,bz,Required field- code and value is missing
+32,False,C,,,,,,Required field- code and value is missing
+33,False,,hcFmjOl,WFQMbozN,FTOij,KXuul,PPwWri,Required field- type is missing
+34,False,,C,hzOBDHgAQ,Iay,zivFErD,,Required field- type is missing
+35,False,,xBtpIE,TRDTzpy,jixheb,,ReZPDdFNO,Required field- type is missing
+36,False,,fWX,wBcxVv,OGf,,,Required field- type is missing
+37,False,,lNpV,q,,ByZj,hJzWwQr,Required field- type is missing
+38,False,,CefDePBV,ewaeBFb,,e,,Required field- type is missing
+39,False,,dx,gGRFaNE,,,qlDYI,Required field- type is missing
+40,False,,dkuz,FLxrZk,,,,Required field- type is missing
+41,False,,JbI,,PzXXGoN,OkaNteCBwH,zgwGOu,Required field- type and value is missing
+42,False,,CiOIMB,,DC,GMRd,,Required field- type and value is missing
+43,False,,XaAgkopnwf,,VWlZEmqH,,kAqFNDfHLn,Required field- type and value is missing
+44,False,,EPd,,pHtEKCrk,,,Required field- type and value is missing
+45,False,,Vfn,,,D,eJEvItxE,Required field- type and value is missing
+46,False,,RPsQKk,,,VAiE,,Required field- type and value is missing
+47,False,,BNVNwe,,,,lpCrmz,Required field- type and value is missing
+48,False,,QuGz,,,,,Required field- type and value is missing
+49,False,,,XHQDn,oPdhOTRyC,SF,gZoa,Required field- type and code is missing
+50,False,,,eMBe,GA,qnsP,,Required field- type and code is missing
+51,False,,,n,p,,FCpngWI,Required field- type and code is missing
+52,False,,,acmmGYggBq,djWaSNuqE,,,Required field- type and code is missing
+53,False,,,dot,,PQ,hkPf,Required field- type and code is missing
+54,False,,,jmoxVcyA,,VNbv,,Required field- type and code is missing
+55,False,,,ZbCnEfbooB,,,QeNTNadL,Required field- type and code is missing
+56,False,,,uZ,,,,Required field- type and code is missing
+57,False,,,,nzLFM,mYNVRhInca,mwLHhOEK,Required field- type and code and value is missing
+58,False,,,,Tg,uuD,,Required field- type and code and value is missing
+59,False,,,,oMrZgWy,,xaxXh,Required field- type and code and value is missing
+60,False,,,,tvRepJiR,,,Required field- type and code and value is missing
+61,False,,,,,AvhE,yLRZrpnRax,Required field- type and code and value is missing
+62,False,,,,,fZO,,Required field- type and code and value is missing
+63,False,,,,,,ZpJfI,Required field- type and code and value is missing
+64,False,,,,,,,Required field- type and code and value is missing
+65,False,ivnLJbbg,unJHW,lOP,RjK,Z,,Duplicate field values
+66,False,MjTQIc,,M,uSH,EP,DWOWEWcNsv,Duplicate field values
+67,False,,,XHQDn,oPdhOTRyC,SF,gZoa,Duplicate field values
+68,True,ghPBRhMwsNHnuTmhSlIKLqjKIWKcNbwMOZDIWALABgVqnTXxdOJAyMiBUAdzShgdMGKGpMyjdUBZTTCcgmfdhgzwswHUYkXKKGht,cxPjHZKLHtlkChsAdmnckKcZuxcpohbvGEdYUMCYmaXEzhxNmijKsOdqgQFNNhReKgmxkkwBYaYfsIerelBxUmOLLqgRWNRhFsYC,ukVKheyIplVIWZvQCvJiNxVreJYKEUfZcKUCgUlmtCJTJXQomFmaRqiWjTrJVpVfFnXhCPswzdtZBOFEimWGiPYMaROHnhcBuMPL,fJigzuHfBoQNptjlZHcFXQjeZNOVncbWpDPrYEtGRruAhWdpCiFZsgdKzwmBVOCQPdyTPEnckDizgChZpBLUSjqZpqnBZbRSppso,SXHUyatIekBogzpqUeaQXjiJmMqLThLPndEHoDYwTygCtkyqKbfxnaVMnLYHztOCToSkZCLjsyhHPDwnqjHSXJIXoBGttjcfpamI,JptszzJtzoSIPQvFElbJMZpwQSUlIHIoQVIEcgGVfdxPHNDKkYZbtIzxtelsufrHDKzXiBmamTTklWhBNQyrLrRGLVIeWPCOnIyU,
+69,False,BXSoXbJimkQQPqJbeXAcVPUEeSqnhWEZNsDOFtOuckQCoyoMvilHyPozONjskOeEQdyywxYAxCmVnjfIQIyMebxteDBNroPmoDTlAvTbk,CyPkHNTFphVrVzZOCByaWwLjricucOwIzOaQTroyadnBjzwXYPFdsTeTJkarGYAWdblEImmmyVoHcrMUDQvPvBCLvjTkOcyoCyGNRuW,XrgLQtdGAfWzprLCZusUmRYNWviirRFsZFBmcFZFTKsBmDgZnlBsYefWrdAOYvbZNsKORsiRZSrXjngDTWEDguVUooapMDNMyEhNEFG,CsXStOLJOpkfrVyvNIUYZecHbKwxodbFqBWjvCnRcSlDUXyJdZjSSWxYmQwXGSxwyWWgkylPpCjfOBRGzFtZtwWcfhtdyXFGtLhHeinN,odioyoZDYkPBWiEPEznXNcZUhWGKrHRDWcoMbqyNDPDKIyytaDDLThvMTSYbxvMZGAQkedrGQqZPJZZVFOlQBlNwbpyfdtXQfoBEKr,gnSQEQzzQymYItOvpiuwdSirHGJTjomBetmMsKNyDWgQGWOjZUuCrcbalDTkbAMDTpdLaQAibHcRPVukWYfJLBdeRsgBPibNXhldaNMpB,Max length is exceeded
